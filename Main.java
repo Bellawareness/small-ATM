@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
-// Create an application that acts as an ATM machine. The initial balance should start at 0. 
 
-// Ask the user for a deposit/withdrawl and use this to affect the actual balance. Reflect the change in balance using a print out statement.
-// This transaction process should loop till the user types done instead of a number.
 
 class Main {
 
